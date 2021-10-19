@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# 📰Article Apps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Clone the Direcory
+'''
+git clone https://github.com/rohan-anuj/Articles-App.git
+
+'''
+
+
 
 ## Available Scripts
 
