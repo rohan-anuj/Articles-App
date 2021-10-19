@@ -1,13 +1,11 @@
 # 📰Article Apps
 
-##Clone the Direcory
 
-
-
-'''
+ Clone The directory
+```
 git clone https://github.com/rohan-anuj/Articles-App.git
 
-'''
+```
 
 
 
